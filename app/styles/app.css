@@ -108,7 +108,7 @@ h4 {
 }
 
 .instructions-title {
-  font-size: 25px;
+  font-size: 3em;
 }
 
 .guide, .prepend-guide {
@@ -134,8 +134,8 @@ td {
 .well {
   background-image: url("images/newspaper_man.jpg");
   no-repeat center center;
-  width: 862px;
-  height: 612px;
+  width: 65%;
+  height: 40em;
 }
 
 .typed-cursor{
