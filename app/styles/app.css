@@ -69,6 +69,11 @@ body {
 
 a {
   color:white;
+  text-decoration: none;
+}
+
+.ember-view .active {
+  text-decoration: none;
 }
 
 .article-show a:hover{
