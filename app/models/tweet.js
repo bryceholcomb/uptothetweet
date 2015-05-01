@@ -7,7 +7,8 @@ let Tweet =  DS.Model.extend({
   article: DS.belongsTo('article'),
   latitude: DS.attr('number'),
   longitude: DS.attr('number'),
-  tweetId: DS.attr('string')
+  tweetId: DS.attr('string'),
+  publishedTime: DS.attr('time')
 });
 
 export default Tweet;

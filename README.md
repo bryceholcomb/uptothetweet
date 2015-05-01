@@ -1,7 +1,8 @@
 # Uptothetweet
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is an Ember application built during my time at the Turing School of
+Software and Design. It pulls the top events from New York Times' most popular
+API as well as relevant tweets.
 
 ## Prerequisites
 
